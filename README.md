@@ -1,1 +1,1 @@
-#https://mrTsukuri.github.io/rsschool-cv/cv
+#a(href="https://mrTsukuri.github.io/rsschool-cv/cv") rsschool-cv
